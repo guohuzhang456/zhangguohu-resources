@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '玩机驿站',
   description: '分享手机玩机经验与实用教程',
-  base: '/',
+  base: '/张过户资源库/',
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
@@ -52,7 +52,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/guohuzhang456' }
     ],
 
     search: {
@@ -60,7 +60,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/yourname/play-tutorials/edit/main/docs/:path',
+      pattern: 'https://github.com/guohuzhang456/张过户资源库/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
